@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@runningcodertest/lerna-core": "^2.0.0"
-  }
+  },
+  "gitHead": "b695ee83c8cf61824cca7cc61331afb51ac2735f"
 }
